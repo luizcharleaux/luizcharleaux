@@ -12,6 +12,6 @@ Desenvolvedor focado em soluções de backend e infraestrutura, atualmente focad
 ## 🚀 Projetos em Destaque
 
 * **Trabalho de Graduação (SaaS de Triagem Anônima):** Sistema de mensagens assíncronas e triagem anônima.
-* **[Portal da IECCP](https://ieccpcom.br):** Desenvolvimento da plataforma institucional da Igreja Evangélica Congregacional de Cachoeira Paulista.
+* **[Portal da IECCP](https://ieccp.com.br):** Desenvolvimento da plataforma institucional da Igreja Evangélica Congregacional de Cachoeira Paulista.
 ---
 🌐 [charleaux.com.br](https://charleaux.com.br)
