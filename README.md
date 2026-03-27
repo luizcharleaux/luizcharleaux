@@ -1,10 +1,22 @@
-### Olá! 👋
+# Olá, eu sou o [Seu Nome]! 👋
 
-Sou desenvolvedor com foco em soluções de backend e infraestrutura. Atualmente, dedico meu tempo à construção de sistemas escaláveis e ao aprimoramento da qualidade de software.
+Desenvolvedor focado em soluções de backend e infraestrutura, atualmente focado no desenvolvimento do meu TG e projetos comunitários.
 
-* 🚀 **Projeto Atual:** Desenvolvendo um SaaS de mensagens assíncronas e triagem anônima para o meu TG.
-* 🛠️ **Foco Técnico:** PHP (Laravel), Python (Testes) e Arquitetura de APIs REST.
-* ☁️ **Infra:** Experiência com gerenciamento de servidores em ambiente Oracle Cloud.
-* ⛪ **Comunidade:** Desenvolvedor do Portal da IECCP.
+## 🛠️ Tecnologias e Ferramentas
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## 🚀 Projetos em Destaque
+
+* **TG (SaaS de Triagem Anônima):** Sistema de mensagens assíncronas e triagem anônima.
+* **Portal da IECCP:** Desenvolvimento da plataforma institucional da Igreja Evangélica Congregacional de Cachoeira Paulista.
+
+## 📊 Estatísticas do GitHub
+
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=luizcharleaux)](https://github.com/luizcharleaux/luizcharleaux)
+
+---
 🌐 [charleaux.com.br](https://charleaux.com.br)
