@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Luiz Charleaux! 👋
 
 Desenvolvedor focado em soluções de backend e infraestrutura, atualmente focado no desenvolvimento do meu TG e projetos comunitários.
 
@@ -11,12 +11,7 @@ Desenvolvedor focado em soluções de backend e infraestrutura, atualmente focad
 
 ## 🚀 Projetos em Destaque
 
-* **TG (SaaS de Triagem Anônima):** Sistema de mensagens assíncronas e triagem anônima.
-* **Portal da IECCP:** Desenvolvimento da plataforma institucional da Igreja Evangélica Congregacional de Cachoeira Paulista.
-
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=luizcharleaux)](https://github.com/luizcharleaux/luizcharleaux)
-
+* **Trabalho de Graduação (SaaS de Triagem Anônima):** Sistema de mensagens assíncronas e triagem anônima.
+* **[Portal da IECCP](https://ieccpcom.br):** Desenvolvimento da plataforma institucional da Igreja Evangélica Congregacional de Cachoeira Paulista.
 ---
 🌐 [charleaux.com.br](https://charleaux.com.br)
