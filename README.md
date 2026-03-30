@@ -2,6 +2,8 @@
 
 Sou um desenvolvedor focado em soluções de backend e infraestrutura, atualmente focado no desenvolvimento do meu Trabalho de Graduação e projetos comunitários. A melhor hora do dia é a noite!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizkikinho)](https://github.com/anuraghazra/github-readme-stats)
+
 ![IM BATMAN](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUxMzc1aTA3NnBod2QzaDZlOGRmdGZxbmZtcGtvcHluNTFpZjIzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qs5khBKll3CazwLauS/giphy.gif)
 
 ## ☕ Linguagens que utilizo
